@@ -42,7 +42,7 @@
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Oli-cpu815/reconall_v_0.1
+    git clone https://github.com/Oli-cpu815/reconall_v_0.1.git
     cd reconall_v_0.1
     ```
 
